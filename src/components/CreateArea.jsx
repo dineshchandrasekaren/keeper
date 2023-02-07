@@ -3,6 +3,7 @@ import AddIcon from '@material-ui/icons/Add';
 import Fab from '@material-ui/core/Fab';
 import Zoom from '@material-ui/core/Zoom';
 import CloseIcon from '@material-ui/icons/Close';
+import "../styles.css";
 function CreateArea(props) {
 const [View,setView]=useState(false)
   const [getInput,setInput]=useState({

@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import Headers from './Header';
 import Footer from './Footer';
 import Note from './Note';
-
+import "../styles.css";
 import CreateArea from './CreateArea';
 
 function App() {
